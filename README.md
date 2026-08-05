@@ -1,4 +1,4 @@
-# CODSOFT DevOps Internship Tasks
+# CodSoft DevOps Internship Tasks and Projects
 
 This repository contains the tasks completed as part of my one-month DevOps internship at CodSoft.
 
