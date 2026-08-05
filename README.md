@@ -29,7 +29,3 @@ An automated workflow that installs dependencies, runs tests and validates the a
 ## Author
 
 Harish
-
-## Internship Objective
-
-The objective of this internship is to gain practical experience with version control, containerization, automation and web-server deployment.
